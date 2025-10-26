@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rahul Dabriyal
-**A passionate software devloper from India**
+**A passionate software developer from India**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-dabriyal-0333782b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahuldabriyal184@gmail.com) 
@@ -25,6 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahuldabriyal10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
