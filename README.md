@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rahul Dabriyal
-**A passionate software developer from India**
+**A passionate software developer from <b>India</b>**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_dabriyal_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/rahul-dabriyal-0333782b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahuldabriyal184@gmail.com)
